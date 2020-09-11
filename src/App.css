@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+body{
+    background: url('./images/dashboard-background.png');
+    background-size: cover;
+    background-position: cover;
+    /* background-color: #3c434b; */
+}
+.App {
+    border-radius: 10px;
+    margin: 80px auto 10px auto;
+    width: 380px;
+}
